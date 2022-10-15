@@ -6,6 +6,22 @@ expo for Exporting both in ios and android
 
 
 
+used coingecko API calls for the data ..:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ![Desktop Screenshot 2022 06 26 - 23 05 11 16](https://user-images.githubusercontent.com/68709126/195974234-e88627ab-b805-4107-bc29-779285b0095a.png)
 ![Desktop Screenshot 2022 06 26 - 23 05 55 48](https://user-images.githubusercontent.com/68709126/195974235-19cb5567-5f9e-488d-9748-5ffff7779082.png)
 ![Desktop Screenshot 2022 06 26 - 23 06 02 85](https://user-images.githubusercontent.com/68709126/195974236-c17aca88-1024-4a80-aef8-894b5ba7f25b.png)
